@@ -119,4 +119,4 @@ pip install torch torchaudio torchvision \
 
 ## Contact
 
-If you have any issues or need data access, please open an issue or contact us.
+If you have any issues or need data access, please open an issue or contact me through GitHub or email.

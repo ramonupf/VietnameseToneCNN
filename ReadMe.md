@@ -1,20 +1,3 @@
-When executing the notebook, it is important to have the data available in the right folders and with the right file names. Here are the paths used in the notebook:
-```python
-#data locations:
-local_data_root = "/content/drive/MyDrive/UPF_Deep_Learning_2025/Project/"
-synth_small_pkg_dir = "/content/drive/MyDrive/UPF_Deep_Learning_2025/Project/subset_package_small"
-synth_large_pkg_dir = "/content/drive/MyDrive/UPF_Deep_Learning_2025/Project/subset_package_large"
-drill_pkg = "/content/drive/MyDrive/UPF_Deep_Learning_2025/Project/drills_package"
-combined_pkg_small = "/content/drive/MyDrive/UPF_Deep_Learning_2025/Project/combined_package_small"
-combined_pkg_large = "/content/drive/MyDrive/UPF_Deep_Learning_2025/Project/combined_pkg_large"
-tone_net_models = "/content/drive/MyDrive/UPF_Deep_Learning_2025/Project/ToneNet_Models"
-forvo_pkg = "/content/drive/MyDrive/UPF_Deep_Learning_2025/Project/forvo_syllables"
-```
-I have uploaded some of the prepackaged data into github, but some of the files where over 100mb and cannot be uploaded. They are accessible here (please request access if needed!):
-https://drive.google.com/drive/folders/1RuRA1A_prVmLAHVnAY22xL2MHFAiDTUl?usp=sharing
-
-
-
 # Vietnamese Tone Classification — README
 
 ## Project Overview
